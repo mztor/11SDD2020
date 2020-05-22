@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+@import url("https://fonts.googleapis.com/css?family=Rammetto+One");
+
+body{
+    font-family: Raleway, sans-serif;
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(242, 141, 190);
+    color: white;
+    font-family: "Rametto One",cursive;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+p{
+    width: 600px;
+    color: rgb(242, 141, 190);
+    font-size: 24px;
+    margin: 50px 212px;
+}
+
+span{
+    font-family: "Rametto One", cursive;
+    font-size: 72px;
+    line-height: 2;
+}
+
+a{
+    background-color: rgb(111, 212, 224);
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px 60px;
+    border-radius: 50px;
+}

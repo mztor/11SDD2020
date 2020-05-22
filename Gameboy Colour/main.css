@@ -1,0 +1,17 @@
+* { box-sizing: border-box; }
+
+div{
+    display: inline-block;
+    width: 679px;
+    vertical-align: top;
+    padding: 10px 20px;
+}
+
+h1{
+    margin: 0;
+}
+
+span{
+    color: gray;
+}
+
